@@ -1,6 +1,6 @@
 # Geeetech i3 Pro B metal
 
-Mods
+Mods:
 
 BLtouch
 
